@@ -1,0 +1,103 @@
+.box{
+ 
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px; 
+ }
+ .box div{
+    margin-top: 70px;
+     width: 200px;
+     height: 200px;
+     border-radius: 20px;
+     border-radius: 20px;
+      border: solid black 5px;
+ 
+ 
+ }
+ .main3{
+     display: flex;
+ }
+ .main4{
+     display: flex;
+ }
+ .photo{
+     height: px;
+     width: px;
+ 
+ }
+ .text{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     justify-content: center;
+     font-size: 25px;
+     line-height:  40px;
+     padding-top: 50px;
+     margin-left: 30px;
+     margin-right: 30px;
+ }
+ .photo2{
+     height: px;
+     width: px;
+ }
+ .text2{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     justify-content: center;
+     font-size: 25px;
+     line-height:  40px;
+     padding-top: 90px;
+     margin-left: 30px;
+     margin-right: 30px;
+ }
+ 
+ .box2{
+   
+     justify-content: space-between;
+     display: flex;
+     margin-top: 20px; 
+  }
+  .box2 div{
+      width: 200px;
+      height: 200px;
+ 
+      border-radius: 20px;
+      border: solid black 5px;
+  
+  }
+  .one-1{
+      background-color: rgb(216, 149, 149);  
+   
+  }
+  .one-2{
+     background-color: rgb(53, 10, 10);  
+  
+ }
+ .one-3{
+     background-color: rgb(149, 176, 216);  
+  
+ }
+ .one-4{
+     background-color: rgb(204, 216, 149);  
+  
+ }
+ .two-5{
+     background-color: rgb(216, 149, 180);  
+  
+ }
+ .two-6{
+     background-color: rgb(216, 209, 149);  
+  
+ }
+ .two-7{
+     background-color: rgb(100, 38, 38);  
+  
+ }
+ .two-8{
+     background-color: rgb(149, 216, 169);  
+  
+ }
+ body{
+     background-color: rgb(206, 245, 245);
+ }
+  
+ 
+ 
+ 

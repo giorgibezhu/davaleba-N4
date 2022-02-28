@@ -1,0 +1,43 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: black;
+    
+}
+ul img{
+    height: 50px;
+}
+li a{
+color:white ;
+display: block;
+padding: 16px 16px;
+text-decoration: none;
+font-size: 20px;
+border-radius: 10px;
+margin-left: 10px;
+}
+.menu{
+    display: flex;
+}
+body{
+    font-family: monospace;
+}
+li a:hover{
+    background-color: rgb(39, 34, 34);
+    color: rgb(19, 19, 173);
+    border-radius: 10px;
+}
+.active{
+    background-color: rgb(39, 34, 34) ;
+    color: rgb(19, 19, 173);
+    border-radius: 10px;
+}

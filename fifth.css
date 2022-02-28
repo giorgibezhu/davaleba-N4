@@ -1,0 +1,16 @@
+
+body{
+    background-image: url(https://wallpapercave.com/wp/JDlmniF.jpg);
+}
+.phone{
+    margin-top: 150px;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(165, 228, 207);
+    border-radius: 20px;
+}
+.phone p{
+    padding: 15px;
+    font-size: 20px;
+}
